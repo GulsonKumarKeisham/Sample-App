@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sample App</string>
+    <string name="prompt_login">Login</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="action_login">Login</string>
+    <string name="prompt_employee_list">Employee list</string>
+    <string name="content_img">ImageView</string>
+    <string name="prompt_employee_id">EMP ID:</string>
+    <string name="prompt_designation">Designation:</string>
+    <string name="prompt_city">City:</string>
+    <string name="prompt_joined_date">Joined Date:</string>
+    <string name="prompt_details">Details</string>
+    <string name="prompt_salary">Salary:</string>
+    <string name="transition_dp">Transition_dp</string>
+    <string name="transition_emp_name">Transition_emp_name</string>
+    <string name="content_capture_img">Capture_img</string>
+    <string name="action_take_a_picture">Take a picture</string>
+    <string name="title_search">Search</string>
+    <string name="action_chart">Chart</string>
+    <string name="prompt_welcome">Welcome\n\nPlease login with username and password</string>
+</resources>
